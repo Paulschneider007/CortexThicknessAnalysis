@@ -23,7 +23,7 @@ Classes:
 
 import os
 import math
-
+import sys
 import numpy as np
 from scipy.optimize import leastsq
 from tkinter import *
